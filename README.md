@@ -1,3 +1,3 @@
 ## Demo
-Maze image credits: Aryaman Maithani
+Maze image credits: Aryaman Maithani  <br/>
 ![](solving_process.gif)
